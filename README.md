@@ -1,1 +1,8 @@
-# Got-Notes2
+# Description
+#### Note Taker App
+
+# Technology Used
+#### Express.js
+
+# Test
+#### Insomnia
